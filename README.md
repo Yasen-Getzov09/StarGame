@@ -1,35 +1,34 @@
 
 # StarGame
 
-**StarGame** is a simple 2D game built using Pygame where the player observes stars moving across the screen.
+A simple Pygame project where stars are randomly generated and displayed on the screen. You can quit the game by pressing the 'Q' key.
+
+## Requirements
+
+- Python 3.x
+- Pygame
 
 ## Installation
-
-To run the game, you need to have Python and Pygame installed. Follow the steps below:
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/Yasen-Getzov09/StarGame.git
    ```
 
-2. Install the dependencies:
+2. Install the required dependencies:
    ```bash
    pip install pygame
    ```
 
-3. Run the game:
-   ```bash
-   python main.py
-   ```
+## Running the Game
 
-## Gameplay
+To start the game, run the following command:
+```bash
+python main.py
+```
 
-In the game, you'll see falling stars. Press "Q" to quit the game.
-
-## Developer
-
-This project was created by [Yasen Getzov](https://github.com/Yasen-Getzov09).
+Press 'Q' to quit the game.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
